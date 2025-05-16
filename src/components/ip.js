@@ -1,1 +1,3 @@
-export const ip = "http://192.168.100.7:5500";
+const ip = "glucocare-backend-production.up.railway.app";
+
+export default ip;
